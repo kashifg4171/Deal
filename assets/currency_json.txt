@@ -1,0 +1,1504 @@
+{
+  "currency": [
+    {
+      "name": "Afghanistan",
+      "alpha2Code": "AF",
+      "currency_name": "Afghan afghani",
+      "symbol": "؋"
+    },
+    {
+      "name": "Åland Islands",
+      "alpha2Code": "AX",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Albania",
+      "alpha2Code": "AL",
+      "currency_name": "Albanian lek",
+      "symbol": "L"
+    },
+    {
+      "name": "Algeria",
+      "alpha2Code": "DZ",
+      "currency_name": "Algerian dinar",
+      "symbol": "د.ج"
+    },
+    {
+      "name": "American Samoa",
+      "alpha2Code": "AS",
+      "currency_name": "United State Dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Andorra",
+      "alpha2Code": "AD",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Angola",
+      "alpha2Code": "AO",
+      "currency_name": "Angolan kwanza",
+      "symbol": "Kz"
+    },
+    {
+      "name": "Anguilla",
+      "alpha2Code": "AI",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Antarctica",
+      "alpha2Code": "AQ",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "alpha2Code": "AG",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Argentina",
+      "alpha2Code": "AR",
+      "currency_name": "Argentine peso",
+      "symbol": "$"
+    },
+    {
+      "name": "Armenia",
+      "alpha2Code": "AM",
+      "currency_name": "Armenian dram",
+      "symbol": "Դ"
+    },
+    {
+      "name": "Aruba",
+      "alpha2Code": "AW",
+      "currency_name": "Aruban florin",
+      "symbol": "ƒ"
+    },
+    {
+      "name": "Australia",
+      "alpha2Code": "AU",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Austria",
+      "alpha2Code": "AT",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Azerbaijan",
+      "alpha2Code": "AZ",
+      "currency_name": "Azerbaijani manat",
+      "symbol": "ман"
+    },
+    {
+      "name": "Bahamas",
+      "alpha2Code": "BS",
+      "currency_name": "Bahamian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Bahrain",
+      "alpha2Code": "BH",
+      "currency_name": "Bahraini dinar",
+      "symbol": ".د.ب"
+    },
+    {
+      "name": "Bangladesh",
+      "alpha2Code": "BD",
+      "currency_name": "Bangladeshi taka",
+      "symbol": "৳"
+    },
+    {
+      "name": "Barbados",
+      "alpha2Code": "BB",
+      "currency_name": "Barbadian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Belarus",
+      "alpha2Code": "BY",
+      "currency_name": "New Belarusian ruble",
+      "symbol": "Br"
+    },
+    {
+      "name": "Belgium",
+      "alpha2Code": "BE",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Belize",
+      "alpha2Code": "BZ",
+      "currency_name": "Belize dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Benin",
+      "alpha2Code": "BJ",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Bermuda",
+      "alpha2Code": "BM",
+      "currency_name": "Bermudian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Bhutan",
+      "alpha2Code": "BT",
+      "currency_name": "Bhutanese ngultrum",
+      "symbol": "Nu."
+    },
+    {
+      "name": "Bolivia (Plurinational State of)",
+      "alpha2Code": "BO",
+      "currency_name": "Bolivian boliviano",
+      "symbol": "Bs."
+    },
+    {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "alpha2Code": "BQ",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "alpha2Code": "BA",
+      "currency_name": "Bosnia and Herzegovina convertible mark",
+      "symbol": "КМ"
+    },
+    {
+      "name": "Botswana",
+      "alpha2Code": "BW",
+      "currency_name": "Botswana pula",
+      "symbol": "P"
+    },
+    {
+      "name": "Bouvet Island",
+      "alpha2Code": "BV",
+      "currency_name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    {
+      "name": "Brazil",
+      "alpha2Code": "BR",
+      "currency_name": "Brazilian real",
+      "symbol": "R$"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "alpha2Code": "IO",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "alpha2Code": "UM",
+      "currency_name": "United States Dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Virgin Islands (British)",
+      "alpha2Code": "VG",
+      "currency_name": "[D]",
+      "symbol": "$"
+    },
+    {
+      "name": "Virgin Islands (U.S.)",
+      "alpha2Code": "VI",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "alpha2Code": "BN",
+      "currency_name": "Brunei dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Bulgaria",
+      "alpha2Code": "BG",
+      "currency_name": "Bulgarian lev",
+      "symbol": "лв"
+    },
+    {
+      "name": "Burkina Faso",
+      "alpha2Code": "BF",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Burundi",
+      "alpha2Code": "BI",
+      "currency_name": "Burundian franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Cambodia",
+      "alpha2Code": "KH",
+      "currency_name": "Cambodian riel",
+      "symbol": "៛"
+    },
+    {
+      "name": "Cameroon",
+      "alpha2Code": "CM",
+      "currency_name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Canada",
+      "alpha2Code": "CA",
+      "currency_name": "Canadian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Cabo Verde",
+      "alpha2Code": "CV",
+      "currency_name": "Cape Verdean escudo",
+      "symbol": "Esc"
+    },
+    {
+      "name": "Cayman Islands",
+      "alpha2Code": "KY",
+      "currency_name": "Cayman Islands dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Central African Republic",
+      "alpha2Code": "CF",
+      "currency_name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Chad",
+      "alpha2Code": "TD",
+      "currency_name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Chile",
+      "alpha2Code": "CL",
+      "currency_name": "Chilean peso",
+      "symbol": "$"
+    },
+    {
+      "name": "China",
+      "alpha2Code": "CN",
+      "currency_name": "Chinese yuan",
+      "symbol": "¥"
+    },
+    {
+      "name": "Christmas Island",
+      "alpha2Code": "CX",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "alpha2Code": "CC",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Colombia",
+      "alpha2Code": "CO",
+      "currency_name": "Colombian peso",
+      "symbol": "$"
+    },
+    {
+      "name": "Comoros",
+      "alpha2Code": "KM",
+      "currency_name": "Comorian franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Congo",
+      "alpha2Code": "CG",
+      "currency_name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Congo (Democratic Republic of the)",
+      "alpha2Code": "CD",
+      "currency_name": "Congolese franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Cook Islands",
+      "alpha2Code": "CK",
+      "currency_name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Costa Rica",
+      "alpha2Code": "CR",
+      "currency_name": "Costa Rican colón",
+      "symbol": "₡"
+    },
+    {
+      "name": "Croatia",
+      "alpha2Code": "HR",
+      "currency_name": "Croatian kuna",
+      "symbol": "kn"
+    },
+    {
+      "name": "Cuba",
+      "alpha2Code": "CU",
+      "currency_name": "Cuban convertible peso",
+      "symbol": "$"
+    },
+    {
+      "name": "Curaçao",
+      "alpha2Code": "CW",
+      "currency_name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    },
+    {
+      "name": "Cyprus",
+      "alpha2Code": "CY",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Czech Republic",
+      "alpha2Code": "CZ",
+      "currency_name": "Czech koruna",
+      "symbol": "Kč"
+    },
+    {
+      "name": "Denmark",
+      "alpha2Code": "DK",
+      "currency_name": "Danish krone",
+      "symbol": "kr"
+    },
+    {
+      "name": "Djibouti",
+      "alpha2Code": "DJ",
+      "currency_name": "Djiboutian franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Dominica",
+      "alpha2Code": "DM",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Dominican Republic",
+      "alpha2Code": "DO",
+      "currency_name": "Dominican peso",
+      "symbol": "$"
+    },
+    {
+      "name": "Ecuador",
+      "alpha2Code": "EC",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Egypt",
+      "alpha2Code": "EG",
+      "currency_name": "Egyptian pound",
+      "symbol": "£"
+    },
+    {
+      "name": "El Salvador",
+      "alpha2Code": "SV",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "alpha2Code": "GQ",
+      "currency_name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Eritrea",
+      "alpha2Code": "ER",
+      "currency_name": "Eritrean nakfa",
+      "symbol": "Nfk"
+    },
+    {
+      "name": "Estonia",
+      "alpha2Code": "EE",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Ethiopia",
+      "alpha2Code": "ET",
+      "currency_name": "Ethiopian birr",
+      "symbol": "Br"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "alpha2Code": "FK",
+      "currency_name": "Falkland Islands pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Faroe Islands",
+      "alpha2Code": "FO",
+      "currency_name": "Danish krone, Faroese króna",
+      "symbol": "kr"
+    },
+    {
+      "name": "Fiji",
+      "alpha2Code": "FJ",
+      "currency_name": "Fijian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Finland",
+      "alpha2Code": "FI",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "France",
+      "alpha2Code": "FR",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "French Guiana",
+      "alpha2Code": "GF",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "French Polynesia",
+      "alpha2Code": "PF",
+      "currency_name": "CFP franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "French Southern Territories",
+      "alpha2Code": "TF",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Gabon",
+      "alpha2Code": "GA",
+      "currency_name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Gambia",
+      "alpha2Code": "GM",
+      "currency_name": "Gambian dalasi",
+      "symbol": "D"
+    },
+    {
+      "name": "Georgia",
+      "alpha2Code": "GE",
+      "currency_name": "Georgian Lari",
+      "symbol": "ლ"
+    },
+    {
+      "name": "Germany",
+      "alpha2Code": "DE",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Ghana",
+      "alpha2Code": "GH",
+      "currency_name": "Ghanaian cedi",
+      "symbol": "₵"
+    },
+    {
+      "name": "Gibraltar",
+      "alpha2Code": "GI",
+      "currency_name": "Gibraltar pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Greece",
+      "alpha2Code": "GR",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Greenland",
+      "alpha2Code": "GL",
+      "currency_name": "Danish krone",
+      "symbol": "kr"
+    },
+    {
+      "name": "Grenada",
+      "alpha2Code": "GD",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Guadeloupe",
+      "alpha2Code": "GP",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Guam",
+      "alpha2Code": "GU",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Guatemala",
+      "alpha2Code": "GT",
+      "currency_name": "Guatemalan quetzal",
+      "symbol": "Q"
+    },
+    {
+      "name": "Guernsey",
+      "alpha2Code": "GG",
+      "currency_name": "British pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Guinea",
+      "alpha2Code": "GN",
+      "currency_name": "Guinean franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "alpha2Code": "GW",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Guyana",
+      "alpha2Code": "GY",
+      "currency_name": "Guyanese dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Haiti",
+      "alpha2Code": "HT",
+      "currency_name": "Haitian gourde",
+      "symbol": "G"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "alpha2Code": "HM",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Holy See",
+      "alpha2Code": "VA",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Honduras",
+      "alpha2Code": "HN",
+      "currency_name": "Honduran lempira",
+      "symbol": "L"
+    },
+    {
+      "name": "Hong Kong",
+      "alpha2Code": "HK",
+      "currency_name": "Hong Kong dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Hungary",
+      "alpha2Code": "HU",
+      "currency_name": "Hungarian forint",
+      "symbol": "Ft"
+    },
+    {
+      "name": "Iceland",
+      "alpha2Code": "IS",
+      "currency_name": "Icelandic króna",
+      "symbol": "kr"
+    },
+    {
+      "name": "India",
+      "alpha2Code": "IN",
+      "currency_name": "Indian rupee",
+      "symbol": "₹"
+    },
+    {
+      "name": "Indonesia",
+      "alpha2Code": "ID",
+      "currency_name": "Indonesian rupiah",
+      "symbol": "Rp"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "alpha2Code": "CI",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Iran (Islamic Republic of)",
+      "alpha2Code": "IR",
+      "currency_name": "Iranian rial",
+      "symbol": "﷼"
+    },
+    {
+      "name": "Iraq",
+      "alpha2Code": "IQ",
+      "currency_name": "Iraqi dinar",
+      "symbol": "ع.د"
+    },
+    {
+      "name": "Ireland",
+      "alpha2Code": "IE",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Isle of Man",
+      "alpha2Code": "IM",
+      "currency_name": "British pound, Manx pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Israel",
+      "alpha2Code": "IL",
+      "currency_name": "Israeli new shekel",
+      "symbol": "₪"
+    },
+    {
+      "name": "Italy",
+      "alpha2Code": "IT",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Jamaica",
+      "alpha2Code": "JM",
+      "currency_name": "Jamaican dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Japan",
+      "alpha2Code": "JP",
+      "currency_name": "Japanese yen",
+      "symbol": "¥"
+    },
+    {
+      "name": "Jersey",
+      "alpha2Code": "JE",
+      "currency_name": "British pound, Jersey pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Jordan",
+      "alpha2Code": "JO",
+      "currency_name": "Jordanian dinar",
+      "symbol": "د.ا"
+    },
+    {
+      "name": "Kazakhstan",
+      "alpha2Code": "KZ",
+      "currency_name": "Kazakhstani tenge",
+      "symbol": "〒\t"
+    },
+    {
+      "name": "Kenya",
+      "alpha2Code": "KE",
+      "currency_name": "Kenyan shilling",
+      "symbol": "Sh"
+    },
+    {
+      "name": "Kiribati",
+      "alpha2Code": "KI",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Kuwait",
+      "alpha2Code": "KW",
+      "currency_name": "Kuwaiti dinar",
+      "symbol": "د.ك"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "alpha2Code": "KG",
+      "currency_name": "Kyrgyzstani som",
+      "symbol": "с"
+    },
+    {
+      "name": "Lao People's Democratic Republic",
+      "alpha2Code": "LA",
+      "currency_name": "Lao kip",
+      "symbol": "₭"
+    },
+    {
+      "name": "Latvia",
+      "alpha2Code": "LV",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Lebanon",
+      "alpha2Code": "LB",
+      "currency_name": "Lebanese pound",
+      "symbol": "ل.ل"
+    },
+    {
+      "name": "Lesotho",
+      "alpha2Code": "LS",
+      "currency_name": "Lesotho loti",
+      "symbol": "L | R"
+    },
+    {
+      "name": "Liberia",
+      "alpha2Code": "LR",
+      "currency_name": "Liberian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Libya",
+      "alpha2Code": "LY",
+      "currency_name": "Libyan dinar",
+      "symbol": "ل.د"
+    },
+    {
+      "name": "Liechtenstein",
+      "alpha2Code": "LI",
+      "currency_name": "Swiss franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Lithuania",
+      "alpha2Code": "LT",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Luxembourg",
+      "alpha2Code": "LU",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Macao",
+      "alpha2Code": "MO",
+      "currency_name": "Macanese pataca",
+      "symbol": "P"
+    },
+    {
+      "name": "Macedonia (the former Yugoslav Republic of)",
+      "alpha2Code": "MK",
+      "currency_name": "Macedonian denar",
+      "symbol": "ден"
+    },
+    {
+      "name": "Madagascar",
+      "alpha2Code": "MG",
+      "currency_name": "Malagasy ariary",
+      "symbol": "Ar"
+    },
+    {
+      "name": "Malawi",
+      "alpha2Code": "MW",
+      "currency_name": "Malawian kwacha",
+      "symbol": "MK"
+    },
+    {
+      "name": "Malaysia",
+      "alpha2Code": "MY",
+      "currency_name": "Malaysian ringgit",
+      "symbol": "RM"
+    },
+    {
+      "name": "Maldives",
+      "alpha2Code": "MV",
+      "currency_name": "Maldivian rufiyaa",
+      "symbol": ".ރ"
+    },
+    {
+      "name": "Mali",
+      "alpha2Code": "ML",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Malta",
+      "alpha2Code": "MT",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Marshall Islands",
+      "alpha2Code": "MH",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Martinique",
+      "alpha2Code": "MQ",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Mauritania",
+      "alpha2Code": "MR",
+      "currency_name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    },
+    {
+      "name": "Mauritius",
+      "alpha2Code": "MU",
+      "currency_name": "Mauritian rupee",
+      "symbol": "₨"
+    },
+    {
+      "name": "Mayotte",
+      "alpha2Code": "YT",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Mexico",
+      "alpha2Code": "MX",
+      "currency_name": "Mexican peso",
+      "symbol": "$"
+    },
+    {
+      "name": "Micronesia (Federated States of)",
+      "alpha2Code": "FM",
+      "currency_name": "[D]",
+      "symbol": "$"
+    },
+    {
+      "name": "Moldova (Republic of)",
+      "alpha2Code": "MD",
+      "currency_name": "Moldovan leu",
+      "symbol": "L"
+    },
+    {
+      "name": "Monaco",
+      "alpha2Code": "MC",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Mongolia",
+      "alpha2Code": "MN",
+      "currency_name": "Mongolian tögrög",
+      "symbol": "₮"
+    },
+    {
+      "name": "Montenegro",
+      "alpha2Code": "ME",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Montserrat",
+      "alpha2Code": "MS",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Morocco",
+      "alpha2Code": "MA",
+      "currency_name": "Moroccan dirham",
+      "symbol": "د.م."
+    },
+    {
+      "name": "Mozambique",
+      "alpha2Code": "MZ",
+      "currency_name": "Mozambican metical",
+      "symbol": "MT"
+    },
+    {
+      "name": "Myanmar",
+      "alpha2Code": "MM",
+      "currency_name": "Burmese kyat",
+      "symbol": "Ks"
+    },
+    {
+      "name": "Namibia",
+      "alpha2Code": "NA",
+      "currency_name": "Namibian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Nauru",
+      "alpha2Code": "NR",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Nepal",
+      "alpha2Code": "NP",
+      "currency_name": "Nepalese rupee",
+      "symbol": "₨"
+    },
+    {
+      "name": "Netherlands",
+      "alpha2Code": "NL",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "New Caledonia",
+      "alpha2Code": "NC",
+      "currency_name": "CFP franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "New Zealand",
+      "alpha2Code": "NZ",
+      "currency_name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Nicaragua",
+      "alpha2Code": "NI",
+      "currency_name": "Nicaraguan córdoba",
+      "symbol": "C$"
+    },
+    {
+      "name": "Niger",
+      "alpha2Code": "NE",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Nigeria",
+      "alpha2Code": "NG",
+      "currency_name": "Nigerian naira",
+      "symbol": "₦"
+    },
+    {
+      "name": "Niue",
+      "alpha2Code": "NU",
+      "currency_name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Norfolk Island",
+      "alpha2Code": "NF",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Korea (Democratic People's Republic of)",
+      "alpha2Code": "KP",
+      "currency_name": "North Korean won",
+      "symbol": "₩"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "alpha2Code": "MP",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Norway",
+      "alpha2Code": "NO",
+      "currency_name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    {
+      "name": "Oman",
+      "alpha2Code": "OM",
+      "currency_name": "Omani rial",
+      "symbol": "ر.ع."
+    },
+    {
+      "name": "Pakistan",
+      "alpha2Code": "PK",
+      "currency_name": "Pakistani rupee",
+      "symbol": "₨"
+    },
+    {
+      "name": "Palau",
+      "alpha2Code": "PW",
+      "currency_name": "[E]",
+      "symbol": "$"
+    },
+    {
+      "name": "Palestine, State of",
+      "alpha2Code": "PS",
+      "currency_name": "Israeli new sheqel",
+      "symbol": "₪"
+    },
+    {
+      "name": "Panama",
+      "alpha2Code": "PA",
+      "currency_name": "Panamanian balboa",
+      "symbol": "B/."
+    },
+    {
+      "name": "Papua New Guinea",
+      "alpha2Code": "PG",
+      "currency_name": "Papua New Guinean kina",
+      "symbol": "K"
+    },
+    {
+      "name": "Paraguay",
+      "alpha2Code": "PY",
+      "currency_name": "Paraguayan guaraní",
+      "symbol": "₲"
+    },
+    {
+      "name": "Peru",
+      "alpha2Code": "PE",
+      "currency_name": "Peruvian sol",
+      "symbol": "S/."
+    },
+    {
+      "name": "Philippines",
+      "alpha2Code": "PH",
+      "currency_name": "Philippine peso",
+      "symbol": "₱"
+    },
+    {
+      "name": "Pitcairn",
+      "alpha2Code": "PN",
+      "currency_name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Poland",
+      "alpha2Code": "PL",
+      "currency_name": "Polish złoty",
+      "symbol": "zł"
+    },
+    {
+      "name": "Portugal",
+      "alpha2Code": "PT",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Puerto Rico",
+      "alpha2Code": "PR",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Qatar",
+      "alpha2Code": "QA",
+      "currency_name": "Qatari riyal",
+      "symbol": "ر.ق"
+    },
+    {
+      "name": "Republic of Kosovo",
+      "alpha2Code": "XK",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Réunion",
+      "alpha2Code": "RE",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Romania",
+      "alpha2Code": "RO",
+      "currency_name": "Romanian leu",
+      "symbol": "lei"
+    },
+    {
+      "name": "Russian Federation",
+      "alpha2Code": "RU",
+      "currency_name": "Russian ruble",
+      "symbol": "₽"
+    },
+    {
+      "name": "Rwanda",
+      "alpha2Code": "RW",
+      "currency_name": "Rwandan franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "alpha2Code": "BL",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "alpha2Code": "SH",
+      "currency_name": "Saint Helena pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "alpha2Code": "KN",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Saint Lucia",
+      "alpha2Code": "LC",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Saint Martin (French part)",
+      "alpha2Code": "MF",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "alpha2Code": "PM",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "alpha2Code": "VC",
+      "currency_name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Samoa",
+      "alpha2Code": "WS",
+      "currency_name": "Samoan tālā",
+      "symbol": "T"
+    },
+    {
+      "name": "San Marino",
+      "alpha2Code": "SM",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "alpha2Code": "ST",
+      "currency_name": "São Tomé and Príncipe dobra",
+      "symbol": "Db"
+    },
+    {
+      "name": "Saudi Arabia",
+      "alpha2Code": "SA",
+      "currency_name": "Saudi riyal",
+      "symbol": "ر.س"
+    },
+    {
+      "name": "Senegal",
+      "alpha2Code": "SN",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Serbia",
+      "alpha2Code": "RS",
+      "currency_name": "Serbian dinar",
+      "symbol": "дин."
+    },
+    {
+      "name": "Seychelles",
+      "alpha2Code": "SC",
+      "currency_name": "Seychellois rupee",
+      "symbol": "₨"
+    },
+    {
+      "name": "Sierra Leone",
+      "alpha2Code": "SL",
+      "currency_name": "Sierra Leonean leone",
+      "symbol": "Le"
+    },
+    {
+      "name": "Singapore",
+      "alpha2Code": "SG",
+      "currency_name": "Brunei dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Sint Maarten (Dutch part)",
+      "alpha2Code": "SX",
+      "currency_name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    },
+    {
+      "name": "Slovakia",
+      "alpha2Code": "SK",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Slovenia",
+      "alpha2Code": "SI",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Solomon Islands",
+      "alpha2Code": "SB",
+      "currency_name": "Solomon Islands dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Somalia",
+      "alpha2Code": "SO",
+      "currency_name": "Somali shilling",
+      "symbol": "Sh"
+    },
+    {
+      "name": "South Africa",
+      "alpha2Code": "ZA",
+      "currency_name": "South African rand",
+      "symbol": "R"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "alpha2Code": "GS",
+      "currency_name": "British pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Korea (Republic of)",
+      "alpha2Code": "KR",
+      "currency_name": "South Korean won",
+      "symbol": "₩"
+    },
+    {
+      "name": "South Sudan",
+      "alpha2Code": "SS",
+      "currency_name": "South Sudanese pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Spain",
+      "alpha2Code": "ES",
+      "currency_name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "name": "Sri Lanka",
+      "alpha2Code": "LK",
+      "currency_name": "Sri Lankan rupee",
+      "symbol": "Rs"
+    },
+    {
+      "name": "Sudan",
+      "alpha2Code": "SD",
+      "currency_name": "Sudanese pound",
+      "symbol": "ج.س."
+    },
+    {
+      "name": "Suriname",
+      "alpha2Code": "SR",
+      "currency_name": "Surinamese dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "alpha2Code": "SJ",
+      "currency_name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    {
+      "name": "Swaziland",
+      "alpha2Code": "SZ",
+      "currency_name": "Swazi lilangeni",
+      "symbol": "L"
+    },
+    {
+      "name": "Sweden",
+      "alpha2Code": "SE",
+      "currency_name": "Swedish krona",
+      "symbol": "kr"
+    },
+    {
+      "name": "Switzerland",
+      "alpha2Code": "CH",
+      "currency_name": "Swiss franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "alpha2Code": "SY",
+      "currency_name": "Syrian pound",
+      "symbol": "£"
+    },
+    {
+      "name": "Taiwan",
+      "alpha2Code": "TW",
+      "currency_name": "New Taiwan dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Tajikistan",
+      "alpha2Code": "TJ",
+      "currency_name": "Tajikistani somoni",
+      "symbol": "ЅМ"
+    },
+    {
+      "name": "Tanzania, United Republic of",
+      "alpha2Code": "TZ",
+      "currency_name": "Tanzanian shilling",
+      "symbol": "Sh"
+    },
+    {
+      "name": "Thailand",
+      "alpha2Code": "TH",
+      "currency_name": "Thai baht",
+      "symbol": "฿"
+    },
+    {
+      "name": "Timor-Leste",
+      "alpha2Code": "TL",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Togo",
+      "alpha2Code": "TG",
+      "currency_name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Tokelau",
+      "alpha2Code": "TK",
+      "currency_name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Tonga",
+      "alpha2Code": "TO",
+      "currency_name": "Tongan paʻanga",
+      "symbol": "T$"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "alpha2Code": "TT",
+      "currency_name": "Trinidad and Tobago dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Tunisia",
+      "alpha2Code": "TN",
+      "currency_name": "Tunisian dinar",
+      "symbol": "د.ت"
+    },
+    {
+      "name": "Turkey",
+      "alpha2Code": "TR",
+      "currency_name": "Turkish lira",
+      "symbol": "₤"
+    },
+    {
+      "name": "Turkmenistan",
+      "alpha2Code": "TM",
+      "currency_name": "Turkmenistan manat",
+      "symbol": "m"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "alpha2Code": "TC",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Tuvalu",
+      "alpha2Code": "TV",
+      "currency_name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Uganda",
+      "alpha2Code": "UG",
+      "currency_name": "Ugandan shilling",
+      "symbol": "Sh"
+    },
+    {
+      "name": "Ukraine",
+      "alpha2Code": "UA",
+      "currency_name": "Ukrainian hryvnia",
+      "symbol": "₴"
+    },
+    {
+      "name": "United Arab Emirates",
+      "alpha2Code": "AE",
+      "currency_name": "United Arab Emirates dirham",
+      "symbol": "د.إ"
+    },
+    {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "alpha2Code": "GB",
+      "currency_name": "British pound",
+      "symbol": "£"
+    },
+    {
+      "name": "United States of America",
+      "alpha2Code": "US",
+      "currency_name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "name": "Uruguay",
+      "alpha2Code": "UY",
+      "currency_name": "Uruguayan peso",
+      "symbol": "$"
+    },
+    {
+      "name": "Uzbekistan",
+      "alpha2Code": "UZ",
+      "currency_name": "Uzbekistani so'm",
+      "symbol": "NA"
+    },
+    {
+      "name": "Vanuatu",
+      "alpha2Code": "VU",
+      "currency_name": "Vanuatu vatu",
+      "symbol": "Vt"
+    },
+    {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "alpha2Code": "VE",
+      "currency_name": "Venezuelan bolívar",
+      "symbol": "Bs F"
+    },
+    {
+      "name": "Viet Nam",
+      "alpha2Code": "VN",
+      "currency_name": "Vietnamese đồng",
+      "symbol": "₫"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "alpha2Code": "WF",
+      "currency_name": "CFP franc",
+      "symbol": "Fr"
+    },
+    {
+      "name": "Western Sahara",
+      "alpha2Code": "EH",
+      "currency_name": "Moroccan dirham",
+      "symbol": "د.م."
+    },
+    {
+      "name": "Yemen",
+      "alpha2Code": "YE",
+      "currency_name": "Yemeni rial",
+      "symbol": "﷼"
+    },
+    {
+      "name": "Zambia",
+      "alpha2Code": "ZM",
+      "currency_name": "Zambian kwacha",
+      "symbol": "ZK"
+    },
+    {
+      "name": "Zimbabwe",
+      "alpha2Code": "ZW",
+      "currency_name": "Zimbabwe dollar",
+      "symbol": "$"
+    }
+  ]
+}
